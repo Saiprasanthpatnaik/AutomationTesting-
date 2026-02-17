@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Day1LaunchBrowser</name>
+=======
+	<name>FaceBookLogin</name>
+>>>>>>> 4664ec8b7714182f9c541a50c6e53f36b4cb3061
 	<comment></comment>
 	<projects>
 	</projects>
