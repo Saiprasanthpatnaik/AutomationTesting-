@@ -10,7 +10,7 @@ public class LaunchChrome {
         WebDriver driver = new ChromeDriver();
          //Launch browser
         driver.get("https://www.google.com");
-
+          //close browser
         driver.quit();
     }
 }
